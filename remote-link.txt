@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lobby-pose-taxes-degrees.trycloudflare.com/vnc.html
+URL       : https://reduces-duty-techno-ice.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-21 16:26:43
+Created   : 2026-06-21 21:04:41
 =======================================================
