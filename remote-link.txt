@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://reduces-duty-techno-ice.trycloudflare.com/vnc.html
+URL       : https://rrp-turtle-examination-principal.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-21 21:04:41
+Created   : 2026-06-22 02:33:24
 =======================================================
