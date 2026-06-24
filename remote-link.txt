@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://naval-lotus-multi-character.trycloudflare.com/vnc.html
+URL       : https://newspaper-parent-emerald-projection.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-24 17:00:29
+Created   : 2026-06-24 21:18:03
 =======================================================
