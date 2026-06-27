@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pas-mill-routing-tape.trycloudflare.com/vnc.html
+URL       : https://uniprotkb-tops-arrow-invention.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-26 21:14:16
+Created   : 2026-06-27 01:59:00
 =======================================================
