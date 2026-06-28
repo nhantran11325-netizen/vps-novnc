@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://here-bubble-resorts-clerk.trycloudflare.com/vnc.html
+URL       : https://previously-troops-drill-mid.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-28 08:17:30
+Created   : 2026-06-28 11:32:27
 =======================================================
