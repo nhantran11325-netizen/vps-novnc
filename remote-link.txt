@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://buy-earl-tsunami-trail.trycloudflare.com/vnc.html
+URL       : https://place-initiative-emissions-controls.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-30 02:04:25
+Created   : 2026-06-30 08:26:06
 =======================================================
