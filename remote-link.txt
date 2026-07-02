@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://requirement-drilling-bracelets-reaching.trycloudflare.com/vnc.html
+URL       : https://slide-lunch-lone-aggregate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-02 12:03:12
+Created   : 2026-07-02 16:46:55
 =======================================================
