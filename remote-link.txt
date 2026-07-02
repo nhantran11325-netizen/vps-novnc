@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://grad-manuals-burst-valuable.trycloudflare.com/vnc.html
+URL       : https://conservative-bare-discovery-correctly.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-02 02:02:56
+Created   : 2026-07-02 08:01:38
 =======================================================
