@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://somehow-selecting-figured-ccd.trycloudflare.com/vnc.html
+URL       : https://encryption-classifieds-magnitude-spray.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 12:01:31
+Created   : 2026-07-03 16:20:16
 =======================================================
