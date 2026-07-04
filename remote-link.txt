@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://plots-scored-strategies-losing.trycloudflare.com/vnc.html
+URL       : https://includes-fare-amd-computing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 11:18:04
+Created   : 2026-07-04 15:54:56
 =======================================================
