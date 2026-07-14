@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://true-metres-fridge-measures.trycloudflare.com/vnc.html
+URL       : https://cut-played-museum-skirt.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-14 16:10:12
+Created   : 2026-07-14 20:50:15
 =======================================================
