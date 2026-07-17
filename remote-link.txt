@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://areas-highland-retreat-ocean.trycloudflare.com/vnc.html
+URL       : https://caroline-duke-lab-jeff.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-17 07:10:19
+Created   : 2026-07-17 11:15:02
 =======================================================
