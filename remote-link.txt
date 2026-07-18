@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mai-blog-origins-deals.trycloudflare.com/vnc.html
+URL       : https://demand-spotlight-nov-applicant.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-18 10:57:04
+Created   : 2026-07-18 15:45:09
 =======================================================
