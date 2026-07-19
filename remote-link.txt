@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://label-preview-haven-wales.trycloudflare.com/vnc.html
+URL       : https://mile-node-attitude-camps.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-19 07:22:39
+Created   : 2026-07-19 11:04:34
 =======================================================
