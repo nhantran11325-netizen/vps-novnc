@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://desire-labs-variation-regard.trycloudflare.com/vnc.html
+URL       : https://mixed-translation-fda-enabled.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-23 11:46:49
+Created   : 2026-07-23 16:20:57
 =======================================================
