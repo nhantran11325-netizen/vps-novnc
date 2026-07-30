@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mae-lets-tourism-entering.trycloudflare.com/vnc.html
+URL       : https://oral-highways-imposed-standings.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-30 01:16:08
+Created   : 2026-07-30 11:46:50
 =======================================================
