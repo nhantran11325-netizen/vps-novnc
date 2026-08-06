@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://jim-makers-extremely-rock.trycloudflare.com/vnc.html
+URL       : https://diagnosis-printers-instance-admission.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 20:56:27
+Created   : 2026-08-06 01:19:53
 =======================================================
