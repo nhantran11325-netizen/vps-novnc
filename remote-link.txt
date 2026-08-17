@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://harris-scholars-produced-eddie.trycloudflare.com/vnc.html
+URL       : https://store-geo-fate-phenomenon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 00:32:25
+Created   : 2026-08-17 05:26:52
 =======================================================
