@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://jerusalem-advert-rolling-ent.trycloudflare.com/vnc.html
+URL       : https://wages-scholarship-voltage-towards.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 10:19:15
+Created   : 2026-08-18 15:24:01
 =======================================================
