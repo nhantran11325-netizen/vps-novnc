@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wages-scholarship-voltage-towards.trycloudflare.com/vnc.html
+URL       : https://branches-boolean-cylinder-triple.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 15:24:01
+Created   : 2026-08-18 20:13:26
 =======================================================
