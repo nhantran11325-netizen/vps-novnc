@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://aerial-backgrounds-advancement-simpson.trycloudflare.com/vnc.html
+URL       : https://critics-inspector-anywhere-link.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 05:20:41
+Created   : 2026-08-19 10:18:56
 =======================================================
