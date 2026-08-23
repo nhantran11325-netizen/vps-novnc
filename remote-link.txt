@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mining-wellington-loves-refurbished.trycloudflare.com/vnc.html
+URL       : https://prints-competitive-samples-student.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-23 15:12:42
+Created   : 2026-08-23 20:11:08
 =======================================================
