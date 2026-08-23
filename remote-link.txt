@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://terminology-dried-yourself-forward.trycloudflare.com/vnc.html
+URL       : https://constantly-examined-kids-ver.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-23 00:35:29
+Created   : 2026-08-23 05:20:38
 =======================================================
