@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://guarantees-wide-fixes-communications.trycloudflare.com/vnc.html
+URL       : https://oregon-cursor-communist-lindsay.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-15 14:34:21
+Created   : 2026-09-15 18:36:41
 =======================================================
