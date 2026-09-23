@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://studied-guitar-broadway-chronic.trycloudflare.com/vnc.html
+URL       : https://solid-claire-revisions-single.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-23 18:45:24
+Created   : 2026-09-23 22:33:48
 =======================================================
