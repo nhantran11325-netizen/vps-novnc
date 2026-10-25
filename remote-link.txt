@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://equally-nutten-gate-sue.trycloudflare.com/vnc.html
+URL       : https://bizrate-hospital-sys-remain.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-24 22:05:14
+Created   : 2026-10-25 02:02:03
 =======================================================
