@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://absent-bugs-lawyer-tamil.trycloudflare.com/vnc.html
+URL       : https://parade-his-seeking-fioricet.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 23:46:35
+Created   : 2026-10-29 03:10:09
 =======================================================
