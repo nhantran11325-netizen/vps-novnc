@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://show-punch-journalists-obligation.trycloudflare.com/vnc.html
+URL       : https://kennedy-millions-segment-claims.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:13:22
+Created   : 2026-11-02 03:00:35
 =======================================================
