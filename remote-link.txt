@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://watched-aurora-ongoing-biggest.trycloudflare.com/vnc.html
+URL       : https://incl-law-colleagues-warner.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 21:18:14
+Created   : 2026-11-06 03:55:59
 =======================================================
