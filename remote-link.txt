@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://incl-law-colleagues-warner.trycloudflare.com/vnc.html
+URL       : https://precise-fighter-equally-satin.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 03:55:59
+Created   : 2026-11-06 12:35:35
 =======================================================
