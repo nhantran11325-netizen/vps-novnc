@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://builds-sole-elite-realized.trycloudflare.com/vnc.html
+URL       : https://parameters-male-summaries-planes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-10 04:58:40
+Created   : 2026-11-10 13:10:02
 =======================================================
