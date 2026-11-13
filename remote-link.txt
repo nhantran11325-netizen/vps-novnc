@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://abc-inexpensive-product-enormous.trycloudflare.com/vnc.html
+URL       : https://nato-cleaning-chose-hospitality.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-13 03:51:55
+Created   : 2026-11-13 12:43:40
 =======================================================
