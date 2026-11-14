@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://federation-charter-methodology-pam.trycloudflare.com/vnc.html
+URL       : https://standings-paul-parker-clients.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-14 03:49:57
+Created   : 2026-11-14 11:52:21
 =======================================================
