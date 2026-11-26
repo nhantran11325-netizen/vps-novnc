@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://contribute-field-clock-overview.trycloudflare.com/vnc.html
+URL       : https://boolean-regards-should-edited.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-26 02:33:07
+Created   : 2026-11-26 14:37:37
 =======================================================
